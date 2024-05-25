@@ -148,6 +148,8 @@ def get_reference_answer(sokoban):
     stepTem = sokoban.step
     sokoban.reset_game()
     for i in range(len(ans)):
+        for event in pygame.event.get():
+            continue
         if ans[i]== '1':
             if sokoban.is_valid_move(0, -1):
                 sokoban.playerY -= 1
