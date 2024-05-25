@@ -17,8 +17,10 @@
 
 ### 3.功能介绍
 
-![index](https://s2.loli.net/2024/05/25/9eN7rU3cDMVkSCv.png)
+![index](https://s2.loli.net/2024/05/25/m2RPhnI8l5s6YEM.png)
 
 - 该项目记录了的每张map都保存有answer，当你没有思路时，点击**h键**即可给你答案的参考
 - 你可以随时按下**z键**返回所走的上一步
 - 以及,可以点击**esc键**返回主页面
+
+![map](https://s2.loli.net/2024/05/25/GP3eJ7liELozDVr.png)
