@@ -6,7 +6,7 @@
 
 - `pip install -r requirements.txt`
 
-项目运行基于`python3.11`，`pygame2.5.2`,同时，使用了`pyinstaller`进行文件的打包,如果你只是想体验推箱子的乐趣，clone仓库后使用仓库`main.exe`即可
+项目运行基于`python3.11`，`pygame2.5.2`,同时，使用了`pyinstaller`进行文件的打包,如果你只是想体验推箱子的乐趣，clone仓库后使用仓库`推箱子小游戏.exe`即可
 
 ### 2.文件说明
 
